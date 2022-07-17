@@ -4,27 +4,25 @@
       <h1>ABOUT PAGE</h1>
       <div class="py-5">
         <p>
-          Hi, my name is Matej and I welcome you to my Space page. This project is made
+          Hi, my name is Matej and I welcome you to my Space info page. This project is made
           for one of my university classes! On the first page you can see the title and
           the picture of "Astronomy Picture of The Day", chosen my NASA. Below it is short
           description.<br />
         </p>
         <br />
         <p>
-          On weather page you will be able to see the temperatures on the Mars as well as
-          on the Earth! I used API from NASA official page to show thease results!<br />
+          On weather page you will be able to see the temperatures on the Mars on their
+          Solar day! I used API from NASA official page to show these results!<br />
         </p>
         <br />
         <p>
           Gallery is all about our 3 little MARS Rovers. they travel all around the Mars
-          and take pictures. If you are interested to see what is it like on Mars go check
+          and take pictures. Filter by camera type is available. If you are interested to see what is it like on Mars go check
           them out!<br />
         </p>
         <br />
         <p>
-          Last but not least is news page. Showing you all new NASA projects around the
-          world and space ofcourse. Fill in the form to get thease news in your email
-          every day! (totally working ;))<br />
+          Last but not least is news page. Showing you all new Space related projects by using Spaceflight News API. You can specifyy what you want to see using search bar, as well as add , edit and delete news yourself (university project related).<br />
         </p>
       </div>
       <v-card outlined class="px-3 py-3 w-100">
