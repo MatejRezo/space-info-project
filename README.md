@@ -1,5 +1,7 @@
 # space-app-v1
 
+Hosted at https://remarkable-trifle-e1c2d1.netlify.app/
+
 ## Project setup
 ```
 npm install
